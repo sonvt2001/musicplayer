@@ -107,6 +107,14 @@
     justify-content: center;
     background-color: var(--primary-color);
   }
+
+  .control .btn-prev:hover {
+     color: var(--primary-color);
+  }
+
+  .control .btn-next:hover {
+    color: var(--primary-color);
+ }
   
   .progress {
     width: 100%;
